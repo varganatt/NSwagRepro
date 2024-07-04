@@ -1,0 +1,6 @@
+@NSwagRepro_HostAddress = http://localhost:5151
+
+GET {{NSwagRepro_HostAddress}}/
+Accept: application/json
+
+###
